@@ -1,1 +1,2 @@
 # ts-jest-sample
+TypescriptとJestでユニットテストをしてみた。
